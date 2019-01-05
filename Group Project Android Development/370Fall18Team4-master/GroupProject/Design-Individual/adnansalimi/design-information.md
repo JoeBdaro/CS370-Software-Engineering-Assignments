@@ -1,0 +1,1 @@
+The class diagram includes a User, List, and Reminder class. Each class has it's required attributes and operations to be fully functional as per the specs. The Database and UI are not actually classes, but are included for clarity sake. Associations have been made between classes to show how one another operate with each other.

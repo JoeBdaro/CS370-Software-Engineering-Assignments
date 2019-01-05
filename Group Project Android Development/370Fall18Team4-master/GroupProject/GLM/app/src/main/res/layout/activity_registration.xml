@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:orientation="vertical"
+              android:gravity="center"
+              android:background="@drawable/firebase_google"
+              android:layout_height="match_parent"
+              tools:context="RegistrationActivity">
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="wrap_content">
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Create using GMAIL"
+                    android:paddingBottom="50dp"
+                    android:textColor="@android:color/white"
+                    android:textAppearance="?android:textAppearanceLarge"
+                    android:gravity="center"
+            />
+
+            <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:hint="Email:"
+                    android:background="#a7ffffff"
+                    android:padding="14dp"
+                    android:inputType="textEmailAddress"
+                    android:textColorHint="@android:color/black"
+                    android:textColor="@android:color/black"
+                    android:id="@+id/email_reg"
+            />
+            <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:hint="Password:"
+                    android:background="#a7ffffff"
+                    android:padding="14dp"
+                    android:inputType="textPassword"
+                    android:textColor="@android:color/black"
+                    android:textColorHint="@android:color/black"
+                    android:id="@+id/password_reg"
+            />
+
+
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:text="Registration"
+                    android:background="#a7ffffff"
+                    android:padding="14dp"
+                    android:textAppearance="?android:textAppearanceMedium"
+                    android:textColor="@android:color/black"
+                    android:id="@+id/btn_reg"
+            />
+
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="50"
+                    android:textAppearance="?android:textAppearanceSmall"
+                    android:text="Have an account? Log in"
+                    android:gravity="center"
+                    android:textColor="@android:color/black"
+                    android:padding="5dp"
+                    android:id="@+id/signin_txt"
+            />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

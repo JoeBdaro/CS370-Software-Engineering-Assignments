@@ -1,0 +1,74 @@
+# File
+  Size:
+        Empty.                  [single] [property fileIsEmpty]
+        Not Empty.
+
+  Number Of the occurencences of the string in the file:
+        None.                   [single] [if !fileIsEmpty] [property noOccurences]
+        One.                    [single] [if !fileIsEmpty]
+        Many.                   [if !fileIsEmpty]
+
+  Number of occurences in one line:
+        One.                    [if !fileIsEmpty && !noOccurences]
+        Many.                   [if !fileIsEmpty && !noOccurences]
+
+  Position of the string in the file:
+        First line.             [if !fileIsEmpty && !noOccurences]
+        Last line.              [if !fileIsEmpty && !noOccurences]
+        Any line.               [if !fileIsEmpty && !noOccurences]
+
+# OPT
+  number of command line arguments and options:
+        Zero.                   [single]    [property emptyOPT]
+        More than one.
+  
+  command line argument for -b:
+        -b was entered          [if !emptyOPT]
+        -b was not entered      [if !emptyOPT]
+
+  command line argument for -f:
+        -f was entered          [if !emptyOPT && lastOccurence]  [property firstOccurence] 
+        -f was not entered      [if !emptyOPT]
+        
+  command line argument for -l:
+        -l was entered          [if !emptyOPT && !firstOccurence] [property lastOccurence]
+        -l was not entered      [if !emptyOPT]
+        
+  command line argument for -i:
+        -i was entered          [if !emptyOPT]
+        -i was not entered      [if !emptyOPT]
+
+# NumOFFiles
+  Number of files provided:
+        Zero.                   [error] [property zeroFiles]
+        One.                    [single] 
+        Multiple.
+
+# fileExist
+  Whether the files specifies exist:
+        True.                   [single] [if !zeroFiles] [property fileExists]
+        False.                  [error] [if !zeroFiles]
+
+# FromString
+  length of string:
+        Zero.                   [single] [if !zeroFiles && fileExists] [property zeroLengthTo]
+        Any Amount.             [if !zeroFiles && fileExists] [property moreThanZeroTo]
+        Exceeds file limit      [error]
+
+  Content of string:
+        Alphanumeric chars.     [!zeroLengthTo]
+        Spaces.                 [!zeroLengthTo]
+        Special Characters.     [!zeroLengthTo]
+
+
+
+# ToString
+  length of string:
+        Zero.                   [single] [if !zeroFiles && fileExists] [property zeroLengthFrom]
+        Any Amount.             [if !zeroFiles && fileExists] [property moreThanZeroFrom]
+        Exceeds file limit      [error]
+
+  Content of string:
+        Alphanumeric chars.     [!zeroLengthFrom]
+        Spaces.                 [!zeroLengthFrom]
+        Special Characters.     [!zeroLengthFrom]

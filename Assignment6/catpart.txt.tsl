@@ -1,0 +1,796 @@
+
+Test Case 1  		<single>
+   Size :  Empty
+
+
+Test Case 2  		<single>
+   Number Of the occurencences of the string in the file :  None
+
+
+Test Case 3  		<single>
+   Number Of the occurencences of the string in the file :  One
+
+
+Test Case 4  		<single>
+   number of command line arguments and options :  Zero
+
+
+Test Case 5  		<error>
+   Number of files provided :  Zero
+
+
+Test Case 6  		<single>
+   Number of files provided :  One
+
+
+Test Case 7  		<single>
+   Whether the files specifies exist :  True
+
+
+Test Case 8  		<error>
+   Whether the files specifies exist :  False
+
+
+Test Case 9  		<single>
+   length of string :  Zero
+
+
+Test Case 10 		<single>
+   length of string :  Zero
+
+
+Test Case 11 		(Key = 2.3.1.1.2.3.0.0.1.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 12 		(Key = 2.3.1.1.2.3.0.0.1.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 13 		(Key = 2.3.1.1.2.3.0.0.1.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 14 		(Key = 2.3.1.1.2.3.0.0.2.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 15 		(Key = 2.3.1.1.2.3.0.0.2.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 16 		(Key = 2.3.1.1.2.3.0.0.2.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 17 		(Key = 2.3.1.1.2.3.0.0.3.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 18 		(Key = 2.3.1.1.2.3.0.0.3.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 19 		(Key = 2.3.1.1.2.3.0.0.3.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 20 		(Key = 2.3.1.2.2.3.0.0.1.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 21 		(Key = 2.3.1.2.2.3.0.0.1.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 22 		(Key = 2.3.1.2.2.3.0.0.1.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 23 		(Key = 2.3.1.2.2.3.0.0.2.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 24 		(Key = 2.3.1.2.2.3.0.0.2.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 25 		(Key = 2.3.1.2.2.3.0.0.2.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 26 		(Key = 2.3.1.2.2.3.0.0.3.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 27 		(Key = 2.3.1.2.2.3.0.0.3.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 28 		(Key = 2.3.1.2.2.3.0.0.3.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 29 		(Key = 2.3.1.3.2.3.0.0.1.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 30 		(Key = 2.3.1.3.2.3.0.0.1.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 31 		(Key = 2.3.1.3.2.3.0.0.1.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 32 		(Key = 2.3.1.3.2.3.0.0.2.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 33 		(Key = 2.3.1.3.2.3.0.0.2.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 34 		(Key = 2.3.1.3.2.3.0.0.2.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 35 		(Key = 2.3.1.3.2.3.0.0.3.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 36 		(Key = 2.3.1.3.2.3.0.0.3.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 37 		(Key = 2.3.1.3.2.3.0.0.3.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  One
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 38 		(Key = 2.3.2.1.2.3.0.0.1.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 39 		(Key = 2.3.2.1.2.3.0.0.1.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 40 		(Key = 2.3.2.1.2.3.0.0.1.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 41 		(Key = 2.3.2.1.2.3.0.0.2.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 42 		(Key = 2.3.2.1.2.3.0.0.2.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 43 		(Key = 2.3.2.1.2.3.0.0.2.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 44 		(Key = 2.3.2.1.2.3.0.0.3.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 45 		(Key = 2.3.2.1.2.3.0.0.3.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 46 		(Key = 2.3.2.1.2.3.0.0.3.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  First line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 47 		(Key = 2.3.2.2.2.3.0.0.1.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 48 		(Key = 2.3.2.2.2.3.0.0.1.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 49 		(Key = 2.3.2.2.2.3.0.0.1.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 50 		(Key = 2.3.2.2.2.3.0.0.2.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 51 		(Key = 2.3.2.2.2.3.0.0.2.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 52 		(Key = 2.3.2.2.2.3.0.0.2.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 53 		(Key = 2.3.2.2.2.3.0.0.3.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 54 		(Key = 2.3.2.2.2.3.0.0.3.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 55 		(Key = 2.3.2.2.2.3.0.0.3.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Last line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 56 		(Key = 2.3.2.3.2.3.0.0.1.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 57 		(Key = 2.3.2.3.2.3.0.0.1.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 58 		(Key = 2.3.2.3.2.3.0.0.1.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 59 		(Key = 2.3.2.3.2.3.0.0.2.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 60 		(Key = 2.3.2.3.2.3.0.0.2.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 61 		(Key = 2.3.2.3.2.3.0.0.2.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+
+
+Test Case 62 		(Key = 2.3.2.3.2.3.0.0.3.0.1.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Alphanumeric chars
+
+
+Test Case 63 		(Key = 2.3.2.3.2.3.0.0.3.0.2.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Spaces
+
+
+Test Case 64 		(Key = 2.3.2.3.2.3.0.0.3.0.3.)
+   Size                                                  :  Not Empty
+   Number Of the occurencences of the string in the file :  Many
+   Number of occurences in one line                      :  Many
+   Position of the string in the file                    :  Any line
+   number of command line arguments and options          :  More than one
+   Number of files provided                              :  Multiple
+   Whether the files specifies exist                     :  <n/a>
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+   length of string                                      :  <n/a>
+   Content of string                                     :  Special Characters
+

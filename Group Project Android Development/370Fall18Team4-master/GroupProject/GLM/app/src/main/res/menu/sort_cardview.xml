@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/sort_cardview"
+          android:title="Sort"
+          app:showAsAction="always"
+          android:icon="@drawable/sort_icon"/>
+
+    <item android:id="@+id/new_search"
+          android:orderInCategory="100"
+          android:title="search:"
+          android:icon="@drawable/search_icon"
+          app:showAsAction="always"/>
+
+
+</menu>
